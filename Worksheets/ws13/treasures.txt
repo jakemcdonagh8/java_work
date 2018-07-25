@@ -1,0 +1,15 @@
+3
+magic
+AwesomeMagic
+1234
+Stone
+4
+gun
+myGun
+4
+0.1
+5
+stick
+stick
+0
+1
