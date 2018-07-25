@@ -1,0 +1,14 @@
+2
+elf
+green
+bold
+30
+1
+sword
+ogre
+funky
+happy
+50
+2
+wand
+spear

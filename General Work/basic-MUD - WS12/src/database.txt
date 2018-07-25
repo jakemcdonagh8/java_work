@@ -1,0 +1,9 @@
+cyclops
+scary
+no
+60
+2
+sword
+20
+mace
+40

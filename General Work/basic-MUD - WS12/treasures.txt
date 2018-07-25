@@ -1,0 +1,7 @@
+3
+sword
+25
+wand
+30
+spear
+35
